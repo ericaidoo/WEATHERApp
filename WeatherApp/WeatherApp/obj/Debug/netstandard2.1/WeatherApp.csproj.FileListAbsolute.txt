@@ -1,0 +1,60 @@
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netstandard2.1\WeatherApp.deps.json
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netstandard2.1\WeatherApp.dll
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netstandard2.1\WeatherApp.pdb
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Styles\Colors.xaml.g.cs
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Styles\Fonts.xaml.g.cs
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Styles\Theme.xaml.g.cs
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\Dialogs\AddLocationDialog.xaml.g.cs
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\Fragments\ConnectionView.xaml.g.cs
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\Fragments\ErrorView.xaml.g.cs
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\Fragments\LoadingView.xaml.g.cs
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\Fragments\SideMenuView.xaml.g.cs
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\SettingsPage.xaml.g.cs
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\Templates\LocationAddTemplate.xaml.g.cs
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\Templates\LocationItemTemplate.xaml.g.cs
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\Templates\LocationSelectedItemTemplate.xaml.g.cs
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\WeatherPage.xaml.g.cs
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\WelcomePage.xaml.g.cs
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\YourLocationsPage.xaml.g.cs
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\WeatherApp.AssemblyInfo.cs
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\WeatherApp.csproj.Fody.CopyLocal.cache
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\WeatherApp.dll
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\refint\WeatherApp.dll
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\WeatherApp.pdb
+C:\Users\adind\Desktop\eric graphs\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\ref\WeatherApp.dll
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netstandard2.1\WeatherApp.deps.json
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netstandard2.1\WeatherApp.dll
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netstandard2.1\WeatherApp.pdb
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\WeatherApp.csproj.AssemblyReference.cache
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\App.xaml.g.cs
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Styles\Colors.xaml.g.cs
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Styles\Fonts.xaml.g.cs
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Styles\Theme.xaml.g.cs
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\Dialogs\AddLocationDialog.xaml.g.cs
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\Fragments\ConnectionView.xaml.g.cs
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\Fragments\ErrorView.xaml.g.cs
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\Fragments\LoadingView.xaml.g.cs
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\Fragments\SideMenuView.xaml.g.cs
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\SettingsPage.xaml.g.cs
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\Templates\LocationAddTemplate.xaml.g.cs
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\Templates\LocationItemTemplate.xaml.g.cs
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\Templates\LocationSelectedItemTemplate.xaml.g.cs
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\WeatherPage.xaml.g.cs
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\WelcomePage.xaml.g.cs
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\Views\YourLocationsPage.xaml.g.cs
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\WeatherApp.AssemblyInfoInputs.cache
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\WeatherApp.AssemblyInfo.cs
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\WeatherApp.csproj.CoreCompileInputs.cache
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\WeatherApp.csproj.Fody.CopyLocal.cache
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\XamlC.stamp
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\WeatherApp.dll
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\refint\WeatherApp.dll
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\WeatherApp.pdb
+E:\Xamarin-WeatherApp-main\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.1\ref\WeatherApp.dll

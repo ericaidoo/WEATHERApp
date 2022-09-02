@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ResourceDictionary xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WeatherApp.Styles.Colors">
+    <Color x:Key="PrimaryColor">#CAF0F8</Color>
+    <Color x:Key="PrimaryDarkColor">#CAF0F8</Color>
+    <Color x:Key="AccentColor">#FFBB00</Color>
+
+    <Color x:Key="FailColor">#D04C41</Color>
+    <Color x:Key="SuccessColor">#00AF49</Color>
+
+    <!--App Theme Light-->
+    <Color x:Key="LightPrimaryTextColor">#735751</Color>
+    <Color x:Key="LightSecondaryTextColor">#757575</Color>
+
+    <Color x:Key="LightPageBackgroundColor">#293241</Color>
+    <Color x:Key="LightCardBackgroundColor">#293241</Color>
+    <Color x:Key="LightCardUnselectedBackgroundColor">#E1E1E1</Color>
+
+    <Color x:Key="LightTransparentBackgroundColor">#99F0F0F0</Color>
+
+    <!--App Theme Dark-->
+    <Color x:Key="DarkPrimaryTextColor">#A44A3F</Color>
+    <Color x:Key="DarkSecondaryTextColor">#A44A3F</Color>
+
+    <Color x:Key="DarkPageBackgroundColor">#CAF0F8</Color>
+    <Color x:Key="DarkCardBackgroundColor">#CAF0F8</Color>
+    <Color x:Key="DarkCardUnselectedBackgroundColor">#CAF0F8</Color>
+    
+    <Color x:Key="DarkTransparentBackgroundColor">#003049</Color>
+</ResourceDictionary>
